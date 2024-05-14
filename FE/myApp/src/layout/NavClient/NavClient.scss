@@ -1,0 +1,17 @@
+.navClient{
+    width: 100%;
+    height: 80px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.navClient_text{
+    display: flex;
+    gap: 15px;
+}
+.navClient_list ul{
+    display: flex;
+    gap: 15px;
+}

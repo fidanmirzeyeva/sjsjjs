@@ -1,0 +1,17 @@
+.navAdmin{
+    width: 100%;
+    height: 80px;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.navAdmin_text{
+    display: flex;
+    gap: 15px;
+}
+.navAdmin_list ul{
+    display: flex;
+    gap: 15px;
+}
